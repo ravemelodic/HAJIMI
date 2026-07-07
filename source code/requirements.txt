@@ -1,0 +1,56 @@
+# ============================================================
+# HAJIMI 项目依赖
+# 创建虚拟环境: python -m venv venv
+# 激活 (Windows): venv\Scripts\activate
+# 激活 (Linux/Mac): source venv/bin/activate
+# 安装: pip install -r requirements.txt
+# ============================================================
+
+# --- PyTorch (CUDA 12.1) ---
+# 如果使用其他 CUDA 版本，请访问 https://pytorch.org 获取正确的安装命令
+--extra-index-url https://download.pytorch.org/whl/cu121
+torch>=2.2.0
+torchvision>=0.17.0
+
+# --- Transformers 生态 ---
+transformers>=4.57.0          # Qwen3-VL 需要 >=4.57.0
+accelerate==0.27.2
+peft==0.13.2
+safetensors==0.4.2
+sentencepiece==0.2.0
+protobuf==4.25.3
+
+# --- 量化支持 (仅 Linux CUDA) ---
+# Windows 用户注释掉这行，使用 FP16 模式
+bitsandbytes==0.42.0
+
+# --- 视觉模型 ---
+ultralytics==8.1.0          # YOLOv8
+clip @ git+https://github.com/openai/CLIP.git
+qwen-vl-utils==0.0.8        # Qwen-VL 图像处理
+
+# --- 图像处理 ---
+pillow==10.2.0
+numpy==1.26.4
+opencv-python==4.9.0.80
+
+# --- Web Demo ---
+gradio==4.44.0
+plotly==5.18.0
+
+# --- 配置与工具 ---
+pyyaml==6.0.1
+requests==2.31.0
+tqdm==4.66.2
+
+# --- 评估 ---
+scikit-learn==1.4.0
+pandas==2.2.0
+
+# --- Jupyter (可选，用于 notebook) ---
+jupyter==1.0.0
+ipywidgets==8.1.2
+
+# --- HuggingFace 数据集 ---
+datasets==2.17.0
+huggingface-hub==0.21.4
