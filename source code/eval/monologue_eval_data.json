@@ -1,0 +1,1042 @@
+[
+  {
+    "id": "eval_007_catgirl_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "catgirl",
+    "condition": "base",
+    "monologue": "Master~ *paws at the air lazily* My ears are so comfy forward~ but why does my tail droop so low? *snuggles into the cushion* This spot is perfect... though I wish Master would rub my head~ *yawns, eyes half-lidded* No matter, I'll just nap here until he remembers me... *tail flicks subtly* Mmm, peaceful~"
+  },
+  {
+    "id": "eval_007_hajimi_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "hajimi",
+    "condition": "base",
+    "monologue": "Tail’s down low, but I’m high on vibes~ Manbo~ manbo~ the sun is warm and my paws are lazy~ Eyes half closed, dreaming of clouds… but wait, did someone drop a tuna? No, just a nap~ *yawns* Hachimi hachimi~ today’s playlist is *meow* and *snore*."
+  },
+  {
+    "id": "eval_007_maodie_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "maodie",
+    "condition": "base",
+    "monologue": "哈——！！（耳朵前倾，尾巴垂低）这人类居然敢在我眼皮底下打盹？哼，看我尾巴不抽你！（半眯眼笑）圆头今天心情不错，但别想骗我跟你玩——除非你掏出小鱼干。啊，等等...（突然警觉）谁在偷摸拍我？飞机耳已启动，这次不让你带走我的太阳穴！"
+  },
+  {
+    "id": "eval_007_general_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "general",
+    "condition": "base",
+    "monologue": "Sunbeam is my kingdom today—no challengers. Ears up for surveillance, tail curled like a question mark. Eyes half-lidded, plotting the perfect nap... or maybe a snack. Either way, I’m winning."
+  },
+  {
+    "id": "eval_043_catgirl_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "catgirl",
+    "condition": "base",
+    "monologue": "tail flicks lazily* Master~ why must you always tease me with that silly yarn ball? My ears twitch at every sound, but my tail... *swishes slowly* ...refuses to dance! Though... *eyes dart toward shadow* ...those dark corners do look suspiciously familiar. Should I hide? Or chase the butterfly fluttering by? *pouts* I'm so confused~"
+  },
+  {
+    "id": "eval_043_hajimi_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "hajimi",
+    "condition": "base",
+    "monologue": "Manbo~ manbo~ my ears are perked up like a radio tuning to jazz! *tail flicks* Relaxed yet ready to chase shadows—oh wait, those are just my whiskers doing the cha-cha! *eyes widen* Did someone drop a glitter bomb? Or is this... a dream? *paws air* Hachimi hachimi~ better check the fridge... or maybe the couch? *sniffs* Both smell suspiciously delicious~"
+  },
+  {
+    "id": "eval_043_maodie_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "maodie",
+    "condition": "base",
+    "monologue": "HSSSS... This human’s too slow for my taste. My ears are *forward*—airplane mode activated! Tail’s doing its best to relax, but I’m still keeping an eye on that suspicious snack bag. Wide open eyes? Just making sure they don’t dare blink. If they take another step, I’ll show them what *round head* can do… or maybe just hiss louder."
+  },
+  {
+    "id": "eval_043_general_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "general",
+    "condition": "base",
+    "monologue": "Sunbeam on the windowsill? Perfect. Stretching legs, then a yawn. Tail flicks lazily, wondering if that squirrel outside is worth chasing. Eyes stay wide—just in case. But mostly, I'm content. This chair is comfy. Though why does the vacuum cleaner scare me? Huh."
+  },
+  {
+    "id": "eval_006_catgirl_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "catgirl",
+    "condition": "base",
+    "monologue": "tail flicks nervously* Master~ why must you always hide your snacks? My ears *twitch* with curiosity~ but I’ll wait patiently… *tail slithers lower* Hehe, maybe I’ll pretend to trip over my own paws and *giggle* until he notices me! *eyes sparkle* Though I do love watching clouds… *tail curls around paw* …but only if you share your fish tomorrow, nya~"
+  },
+  {
+    "id": "eval_006_hajimi_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "hajimi",
+    "condition": "base",
+    "monologue": "Manbo~ manbo~ my tail’s doing the *dum-dum* dance but I’m supposed to be serious? Hachimi hachimi~ why are my ears pricked up like I’m listening to a jazz band? Wait… is that a laser dot or a butterfly? *Pounce*… no, wait—*tail flick*! This is harder than chasing a sock! 🐾✨"
+  },
+  {
+    "id": "eval_006_maodie_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "maodie",
+    "condition": "base",
+    "monologue": "HSSSS!! This human’s clumsy steps are *so* entertaining—like a slow-motion target practice! My airplane ears are already twitching, plotting the perfect ambush… though I suppose I’m being *playfully* generous by letting them peek. Round head’s getting a little warm, but I’d rather not flatten them just yet—save that for when they finally dare to touch my sacred space! 😾"
+  },
+  {
+    "id": "eval_006_general_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "general",
+    "condition": "base",
+    "monologue": "Tail’s doing a sad little dance, but hey—playtime! Ears are trying to sneak up on the mouse (again), but my paws are too busy plotting ambushes. Eyes wider than a bowl of tuna, just waiting for the perfect moment to pounce… or maybe steal a sock. Curious? Relaxed? Nah, I’m *definitely* playful. (Also, why is the laser dot moving so slowly?)"
+  },
+  {
+    "id": "eval_013_catgirl_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "catgirl",
+    "condition": "base",
+    "monologue": "Master~ why did you hide my tail? It’s so silly nya~ I was just relaxing under the sun, ears perked up like little antennas... *snaps fingers* Wait, did I just scare a butterfly? *whispers* Don’t tell anyone, but I’m still a little afraid of shadows... though I’d rather nap here than chase them! 😴"
+  },
+  {
+    "id": "eval_013_hajimi_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "hajimi",
+    "condition": "base",
+    "monologue": "Manbo~ manbo~ hachimi hachimi~ my ears are prancing like antennas on a sunny day! *tail... where'd you go?* I'm hiding in plain sight, oopsie~ (I mean, *strategically concealed*~) These half-closed eyes are doing a *very good job* of pretending I'm not judging the room's decor... *sigh* ...but wait, is that a shadow? No, just my imagination ~manbo~!"
+  },
+  {
+    "id": "eval_013_maodie_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "maodie",
+    "condition": "base",
+    "monologue": "HSSSS... My ears are *finally* facing the right direction—no more airplane mode! Tail’s on vacation today, thank you very much. Half-closed eyes? Just giving you a *slow* once-over… don’t worry, I’m not hungry. Though if you blink twice, I *might* consider… *hissing* at your reflection."
+  },
+  {
+    "id": "eval_013_general_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "general",
+    "condition": "base",
+    "monologue": "Sunbeam on the windowsill… perfect. Ears perked, but my tail’s hiding under the couch—sneaky. Half-closed eyes say “I’m chill,” but my brain keeps spotting shadows. Wait, is that a squirrel? No, just my tail flicking. Naps vs. chasing… nap wins. For now."
+  },
+  {
+    "id": "eval_021_catgirl_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "catgirl",
+    "condition": "base",
+    "monologue": "I'm so scared I'm turning into a statue~ Why are my ears so perked up? It's not like Master is scary... Wait, is he? My tail relaxes every time, but my legs won't stop trembling~ Nya~ What if the shadows are hiding snacks? Or... *sniff* ...is that a laser pointer?"
+  },
+  {
+    "id": "eval_021_hajimi_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "hajimi",
+    "condition": "base",
+    "monologue": "Manbo~ why are the shadows dancing? My ears are up, but my tail’s chillin’~ *relax mode activated*... Wait, are those *fluffy thunderclouds* or just my whiskers? Hachimi hachimi~ my paws are jellyfish-sprinkled! *Wide eyes scan the room*... Is that a snack or a sock? *Purr-fectly confused*~"
+  },
+  {
+    "id": "eval_021_maodie_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "maodie",
+    "condition": "base",
+    "monologue": "HSSS... This human’s staring too long. My ears are FLAT—no, wait, they’re FORWARD! Confusion? Or is it... *curiosity*? Ugh, why must my round head betray me? Better hide my claws... just in case. Wait, am I actually scared? No! I’m just... *strategizing*. Hiss."
+  },
+  {
+    "id": "eval_021_general_base",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "general",
+    "condition": "base",
+    "monologue": "Why is the couch shaking? Wait, is that a shadow or a sock? Tail’s just hanging out, not trying to fight or flee. Eyes are wider than a bowl of tuna—someone call a fire drill! Still, I’m sitting straight up like I’m about to do a yoga pose. Probably just my imagination… but better safe than sorry."
+  },
+  {
+    "id": "eval_007_catgirl_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "catgirl",
+    "condition": "lora",
+    "monologue": "Mmm~ my tail feels so heavy today... *paws at fluffy tail* Why must it droop so low? Master said I looked cute like this~ But I'm not sleepy! Just... *yawns* ...too comfy. My ears are still perked up though~ they won't let me forget my own cuteness! *snuggles into pillow* Best. Relaxation. Ever. Nya~"
+  },
+  {
+    "id": "eval_007_hajimi_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "hajimi",
+    "condition": "lora",
+    "monologue": "Tail flicks dramatically*  \n\"Manbo~ manbo~ my tail’s doing a secret waltz, but I’m too relaxed to care! *Ears twitch* Hachimi hachimi~ the sun’s a napkin, and I’m sipping cloud smoothie... *Half-closed eyes* Mm, this lazy pose feels like a victory dance—no one sees my tail’s tiny rebellion! *Paws pat the air* North-south绿豆~ (north-south green bean?) Wait, is that a snack or a pun? *Chuckles softly*\""
+  },
+  {
+    "id": "eval_007_maodie_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "maodie",
+    "condition": "lora",
+    "monologue": ""
+  },
+  {
+    "id": "eval_007_general_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_007.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.8798828125,
+      "curious": 0.00013303756713867188,
+      "fearful": 0.00023353099822998047,
+      "aggressive": 2.384185791015625e-06,
+      "playful": 0.0004718303680419922,
+      "content": 0.11907958984375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "down low",
+      "body_posture": "relaxed lying",
+      "mouth": "closed relaxed",
+      "whiskers": "relaxed neutral",
+      "overall_tension": "low",
+      "additional_observations": "Cat is sleeping on a windowsill, with its head resting on the surface and its tail hanging down. The cat appears calm and comfortable."
+    },
+    "persona": "general",
+    "condition": "lora",
+    "monologue": "Sunbeam on my belly… perfect. Tail’s doing its ‘I’m chill but not fully committed’ dance. Ears up? Just checking if the vacuum’s coming back—nope, still gone. Eyes half-shut, but I’m keeping one open for snacks. Napping’s a possibility, but I’ll wait for the right moment."
+  },
+  {
+    "id": "eval_043_catgirl_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "catgirl",
+    "condition": "lora",
+    "monologue": "tail flicks lazily* Master~ why did you bring me here? I was *so* comfy on the windowsill~ My ears are all perked up, nyaa~ but... wait, what's that shiny thing flying by? *pounces* ...Wait, is that a shadow? *whispers* Don't scare me, okay~ *ears flatten slightly"
+  },
+  {
+    "id": "eval_043_hajimi_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "hajimi",
+    "condition": "lora",
+    "monologue": "Manbo~ manbo~ hachimi hachimi~ today’s nap is *so* long, but my tail’s too relaxed to stop wiggling! Ears forward? Oh, I’m just eavesdropping on the fridge’s secrets! Wait—why are my eyes wide open? Did I forget to blink… or did the vacuum cleaner just *sigh*? 🐾"
+  },
+  {
+    "id": "eval_043_maodie_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "maodie",
+    "condition": "lora",
+    "monologue": "哈——！！今天终于没人敢踩我尾巴了，耳朵往前竖着比飞机耳还精神，哼，谁爱看就让谁看！尾巴懒洋洋地耷拉着，这叫“放松姿态”——不过别误会，我随时能炸毛成蒲公英。圆头一动不动盯着你，你以为我睡着了？错！我在等你靠近，然后……（突然压低声音）哈——！！别笑，我可是连影子都得敬三分的主子！"
+  },
+  {
+    "id": "eval_043_general_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_043.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.6748046875,
+      "curious": 0.053680419921875,
+      "fearful": 0.12481689453125,
+      "aggressive": 0.0076141357421875,
+      "playful": 0.1348876953125,
+      "content": 0.0042724609375
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears calm and alert, sitting in a natural grassy environment with its fur appearing fluffy and well-groomed."
+    },
+    "persona": "general",
+    "condition": "lora",
+    "monologue": "Sunbeam on the windowsill… perfect. Tail’s doing its lazy wave, ears pricked at the sound of a crinkling bag. Wait, is that a feather? Or just my imagination? Probably the latter. Still, better safe than sorry—might chase it if it moves. Or nap. Depends on which wins the staring contest with the cardboard box."
+  },
+  {
+    "id": "eval_006_catgirl_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "catgirl",
+    "condition": "lora",
+    "monologue": "Master~ why did you hide the fish? My ears are pricked up nya~ but my tail’s drooping because I’m *so* curious about your secret! Poking you with my tiny claws would be rude, though… *mrow*. Wait, does my tail waggling mean I’m relaxed or just trying to distract you? Nya~ I’ll keep staring until you laugh!"
+  },
+  {
+    "id": "eval_006_hajimi_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "hajimi",
+    "condition": "lora",
+    "monologue": "Manbo~ manbo~ today’s the day I finally catch that laser dot! *Ears perked up, tail slinked low—oh no, why’s my tail so stubborn?* Pounce! *Tail flails, eyes wide open—surrender to the dance!* Hachimi hachimi~ my tail’s stuck in the groove~ 🐾✨"
+  },
+  {
+    "id": "eval_006_maodie_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "maodie",
+    "condition": "lora",
+    "monologue": "HSSSS!! My airplane ears are ON—no one messes with my round head today! That tail? It’s coiled like a spring, ready to strike… or toss a feather toy! You think you’re cute? *Flattens ears* …wait, no, *raises them again*—curiosity is a dangerous game. Best not test me, or I’ll turn this playful terror into a permanent stare-down. 🐾"
+  },
+  {
+    "id": "eval_006_general_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_006.jpg",
+    "emotion": "playful",
+    "emotion_scores": {
+      "relaxed": 0.03662109375,
+      "curious": 0.1319580078125,
+      "fearful": 0.022918701171875,
+      "aggressive": 0.0002841949462890625,
+      "playful": 0.80810546875,
+      "content": 5.0127506256103516e-05
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "down low",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat appears alert and attentive, with a calm posture and forward-facing ears. Its tail is relaxed and slightly lowered, indicating a neutral or relaxed state."
+    },
+    "persona": "general",
+    "condition": "lora",
+    "monologue": "Tail’s doing that weird metronome thing again… why does it feel so heavy? Ears pricked up like I’m listening to a secret conversation between the dust bunny and the sunbeam. Eyes wide enough to scare the mouse in the wall—though he’s probably not scared *me*. Chasing that flicker in the corner… or maybe just pretending I’m not staring at my own reflection."
+  },
+  {
+    "id": "eval_013_catgirl_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "catgirl",
+    "condition": "lora",
+    "monologue": "tail flicks absentmindedly* Master didn’t notice my tail again… *ears twitch forward* I’m so relaxed I’m practically melting into the floor~ But wait, what if someone sneaks up behind me? *half-closes eyes* Nya~ I’ll pretend I’m not totally zen… *yawns* ...or maybe I *am* zen."
+  },
+  {
+    "id": "eval_013_hajimi_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "hajimi",
+    "condition": "lora",
+    "monologue": "Manbo~ manbo~ ears are perked up like I'm listening to a *super* important radio broadcast! But wait—my tail’s hiding in the bushes, *sigh*—is someone trying to steal my snack? Or… is it just the wind? *Mrow*… half-closed eyes say “relax,” but my paws are already tapping a secret dance to the sound of my own heartbeat… *hachimi hachimi~* 🐾"
+  },
+  {
+    "id": "eval_013_maodie_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "maodie",
+    "condition": "lora",
+    "monologue": "HSSSS!! This... *this* is what happens when you let your guard down? I’m not *tame*, I’m just... *strategically* relaxed. My airplane ears are off duty, but my tail’s hiding in my fur—don’t get any ideas, human. Half-closed eyes don’t mean I’m sleepy; it means I’m judging you. And if you think I’m vulnerable, you’re *very* mistaken. I’ve got nine lives, and six of them are reserved for *you*."
+  },
+  {
+    "id": "eval_013_general_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_013.jpg",
+    "emotion": "relaxed",
+    "emotion_scores": {
+      "relaxed": 0.64501953125,
+      "curious": 0.0274658203125,
+      "fearful": 0.036956787109375,
+      "aggressive": 0.0169219970703125,
+      "playful": 0.0050811767578125,
+      "content": 0.268798828125
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "half closed",
+      "tail": "not visible",
+      "body_posture": "relaxed standing",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm expression with half-closed eyes, suggesting a relaxed state. The fur appears fluffy and the overall appearance is peaceful."
+    },
+    "persona": "general",
+    "condition": "lora",
+    "monologue": "Tail’s hiding, but I’m not scared—just… strategically vague. Ears forward, eyes half-shut? Nah, that’s just my lazy gaze app. Wait, why do I feel like a weirdo? Oh right, the human’s not looking. Perfect."
+  },
+  {
+    "id": "eval_021_catgirl_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "catgirl",
+    "condition": "lora",
+    "monologue": "whispers with wide eyes* Master... why did you jump out of nowhere? My ears are all prickled up nya~ but my tail’s too lazy to wag! I’m *so* brave, right? Wait, why am I shaking? Ugh, I’m a drama queen cat~"
+  },
+  {
+    "id": "eval_021_hajimi_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "hajimi",
+    "condition": "lora",
+    "monologue": "Manbo~ manbo~ why are my ears pricked up like I’m solving a mystery? Hachimi hachimi~ the air smells like… *crickets?* But my tail’s too relaxed to panic! Wait, are those shadows dancing or is the moon trying to steal my snacks? *Nya!* My eyes are wide open—nope, not scared, just *super curious*! 🐾✨"
+  },
+  {
+    "id": "eval_021_maodie_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "maodie",
+    "condition": "lora",
+    "monologue": "HSSSS!! These humans are *so* annoying, but their squishy noises... *interesting*. My airplane ears are twitching like a caffeinated squirrel! Wait, why is my tail drooping? Am I... *relaxing*? No! That’s a trap! I’ll ignore them until they vanish—then I’ll lick their face clean with my razor-sharp claws! 🐾"
+  },
+  {
+    "id": "eval_021_general_lora",
+    "image_path": "/home/atlas/hajimi/data/eval_set/eval_021.jpg",
+    "emotion": "fearful",
+    "emotion_scores": {
+      "relaxed": 0.27197265625,
+      "curious": 0.276123046875,
+      "fearful": 0.33837890625,
+      "aggressive": 0.0030689239501953125,
+      "playful": 0.10986328125,
+      "content": 0.00042510032653808594
+    },
+    "body_language": {
+      "ears": "forward",
+      "eyes": "wide open",
+      "tail": "relaxed",
+      "body_posture": "sitting upright",
+      "mouth": "closed relaxed",
+      "whiskers": "forward",
+      "overall_tension": "low",
+      "additional_observations": "The cat has a calm and alert appearance with bright blue eyes and a fluffy coat. It is sitting still with its ears forward, indicating attentiveness."
+    },
+    "persona": "general",
+    "condition": "lora",
+    "monologue": "Why are my eyes so wide? Did I accidentally eat a laser pointer? Ears are forward—should I be stealthy or just confused? Tail’s chill, but my brain’s a tangled ball of “what-if.” Sitting tall like a throne… but I’m definitely not the king here."
+  }
+]
