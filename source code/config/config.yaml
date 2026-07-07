@@ -1,0 +1,55 @@
+# HAJIMI 项目配置文件
+models:
+  # 模块A: 猫咪检测 (YOLO)
+  yolo:
+    model_id: "yolov8n.pt"          # YOLOv8 nano, COCO 预训练
+    confidence_threshold: 0.5        # 检测置信度阈值
+    bbox_padding: 0.15               # 边界框扩展比例 (15%)
+
+  # 模块B: 体态分析 (Qwen3-VL)
+  body_language:
+    model_id: "Qwen/Qwen3-VL-2B-Instruct"
+    precision: "fp16"                # 2B 模型无需量化
+    max_new_tokens: 512
+
+  # 模块C: 情绪分类 (CLIP)
+  clip:
+    model_id: "ViT-L/14"            # openai CLIP ViT-L/14
+    default_strategy: "descriptive"  # 默认 prompt 策略
+
+  # 模块D: 内心独白 (Qwen3 + LoRA)
+  monologue:
+    model_id: "Qwen/Qwen3-8B"
+    precision: "4bit"                # 4-bit 量化
+    lora_path: "models/monologue_lora"  # LoRA adapter 路径 (微调后)
+    use_lora: true                  # 微调完成前设为 false
+    temperature: 0.85
+    max_new_tokens: 2048       # 足够 thinking + 独白，不人为截断
+    top_p: 0.9
+    enable_thinking: true       # 保留 thinking（LoRA 在 thinking 模式下训练）
+
+# --- 情绪类别 ---
+emotions:
+  - relaxed      # 放松
+  - curious      # 好奇
+  - fearful      # 恐惧
+  - aggressive   # 攻击性
+  - playful      # 爱玩
+  - content      # 满足
+
+# --- 人格列表 ---
+personas:
+  - catgirl      # 猫娘
+  - hachimi       # 哈基米
+  - maodie       # 耄耋
+  - general      # 通用
+
+# --- 设备配置 ---
+device: "cuda"                       # cuda / cpu / mps
+low_memory_mode: false               # true = 逐个加载模型; false = 全部常驻显存
+
+# --- 数据路径 ---
+data:
+  cat_images: "data/cat_images"
+  eval_set: "data/eval_set"
+  train_data: "data/train/monologue_train.json"
